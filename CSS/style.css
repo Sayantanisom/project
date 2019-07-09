@@ -1,0 +1,18 @@
+ 
+    body {
+      text-align: center;
+      background-color:grey;
+      background-size:cover;
+      background-position:center;
+      color: white;
+      font-family: helvetica;}
+      p{text-align: center;font-size:60px; color:white;
+    }
+    input
+    {
+      border:0;
+    padding:10px;
+   font-size:18px; 
+    }
+    input[type="submit"] { background: green; color: black;}
+ 
